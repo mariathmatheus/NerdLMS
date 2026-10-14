@@ -16,15 +16,15 @@
   },
   "dependencies": {
     "@nerdlms/core": "0.1.0",
-    "@aws-sdk/client-s3": "^3.1115.0",
-    "@aws-sdk/s3-request-presigner": "^3.1115.0",
+    "@aws-sdk/client-s3": "^3.1149.0",
+    "@aws-sdk/s3-request-presigner": "^3.1149.0",
     "nodemailer": "^9.0.5",
-    "pg": "8.23.0"
+    "pg": "8.23.1"
   },
   "devDependencies": {
     "@types/node": "22.15.0",
     "@types/nodemailer": "^8.0.1",
-    "@types/pg": "8.21.0",
+    "@types/pg": "8.23.1",
     "typescript": "5.7.3"
   },
   "comments": {
